@@ -1,0 +1,17 @@
+.container{
+    width: 500px;
+    margin: 30px auto;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px 20px;
+    background-color: aquamarine;
+}
+
+
+.home-page{
+    width:420px;
+    color: red;
+    background-color:yellow;
+    margin: 20px auto;
+}
+
