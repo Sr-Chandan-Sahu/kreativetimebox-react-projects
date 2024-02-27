@@ -1,13 +1,15 @@
 import './index.css';
 import './App.css' 
-import Counter from './Counter/Counter';
+
 import LoginForm from './components/LoginForm/LoginForm';
+import Home from './components/To-Do-List/Home';
 
 function App() {
   return (
     <div className="App">
-      <LoginForm/>
+      {/* <LoginForm/> */}
       {/* <Counter/> */}
+      <Home/>
     </div>
   );
 }
