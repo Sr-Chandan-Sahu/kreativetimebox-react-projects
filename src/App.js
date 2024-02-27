@@ -3,13 +3,15 @@ import './App.css'
 
 import LoginForm from './components/LoginForm/LoginForm';
 import Home from './components/To-Do-List/Home';
+import Calculator from './components/Calculator/Calculator';
 
 function App() {
   return (
     <div className="App">
       {/* <LoginForm/> */}
       {/* <Counter/> */}
-      <Home/>
+      {/* <Home/> */}
+      <Calculator/>
     </div>
   );
 }

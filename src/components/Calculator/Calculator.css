@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.calculator{
+    width: 285px;
+    margin: 20px auto;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 15px;
+    background: transparent;
+    background-color: black;
+}
+input{
+    width: 230px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+
+}
+button{
+    width: 60px;
+    border-radius: 50%;
+    color: white;
+    background-color: black;
+}
